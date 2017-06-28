@@ -9,3 +9,5 @@ Is important to install the Babel plugins so you can use the @ decorator.
 4. run `npm install babel-plugin-transform-decorators-legacy --save`
 
 Finally run `react-native run-android` to see the project in the emulator.
+
+![Alt text](/react-native-mobx-example-screenshot.png?raw=true "React Native Mobx example")
