@@ -8,6 +8,6 @@ Is important to install the Babel plugins so you can use the @ decorator.
 3. run `npm install babel-plugin-transform-class-properties --save`
 4. run `npm install babel-plugin-transform-decorators-legacy --save`
 
-Finally run `react-native run-android` to see the project in the emulator.
+Finally run `react-native run-android` to see the project in the emulator. Additional details can be found in the source code.
 
 ![Alt text](/react-native-mobx-example-screenshot.png?raw=true "React Native Mobx example")
