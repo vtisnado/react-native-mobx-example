@@ -10,4 +10,7 @@ Is important to install the Babel plugins so you can use the @ decorator.
 
 Finally run `react-native run-android` to see the project in the emulator. Additional details can be found in the source code.
 
+You can check this article to read about the differences between Mobx and Redux: https://www.robinwieruch.de/redux-mobx-confusion/)
+
+
 ![Alt text](/react-native-mobx-example-screenshot.png?raw=true "React Native Mobx example")
